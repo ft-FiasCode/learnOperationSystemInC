@@ -169,12 +169,13 @@ Understand memory management basics
 
 Clone the repository:
 
-git clone https://github.com/your-username/os-lab-manual.git
+git clone https://github.com/your-username/learnOperationSystemInC.git
+
 
 
 Navigate into the directory:
 
-cd os-lab-manual
+cd learnOperationSystemInC
 
 
 Compile C programs:
