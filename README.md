@@ -169,7 +169,7 @@ Understand memory management basics
 
 Clone the repository:
 
-git clone https://github.com/your-username/learnOperationSystemInC.git
+git clone https://github.com/ft-FiasCode/learnOperationSystemInC.git
 
 
 
