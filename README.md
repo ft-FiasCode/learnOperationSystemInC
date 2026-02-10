@@ -139,6 +139,12 @@ Memory allocation
 
 Memory management techniques
 
+🔹 Lab 15: Page Fault
+
+Objective: Learn page Fault concepts.
+
+Apply different Algo on page fault
+
 🛠️ System Requirements
 
 Operating System: Ubuntu (Latest LTS recommended)
