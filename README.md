@@ -379,6 +379,3 @@ This project is open-source and free to use, modify, and distribute.
 
 Made with ❤️ by [ft-FiasCode](https://github.com/ft-FiasCode)
 ```
-
-Understand memory management basics
-
